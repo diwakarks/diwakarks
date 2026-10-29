@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me **
 
 - 🎓 I'm a Computer Science student.
 - 💡 I'm interested in problem-solving and software development.
