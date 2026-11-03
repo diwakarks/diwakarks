@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  Building projects, strengthening CS fundamentals, and learning by doing.
+  Building projects, strengthening CS fundamentals, and learning.
 </p>
 
 <p align="center">
