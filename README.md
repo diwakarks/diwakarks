@@ -2,11 +2,12 @@
 
 ### Computer Science Undergraduate at NIT Jalandhar | Aspiring Software Engineer
 
-I enjoy solving problems, understanding how systems work, and building software that turns ideas and data into practical solutions.
+I build software applications, solve algorithmic problems, and explore how data and technology can address practical challenges. My interests lie in **software engineering, backend development, and data-driven systems.**
 
-- 🎓 B.Tech in Computer Science & Engineering — **NIT Jalandhar**
-- 💻 Interested in Software Engineering, Data-Intensive Applications, and Machine Learning
-- 🌱 Currently strengthening DSA, core CS fundamentals, and software design
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at **NIT Jalandhar**
+- 💻 Building projects that combine software development with analytical problem-solving
+- 🧠 **500+ problems solved on LeetCode** | Contest Rating: **1835**
+- 🌱 Currently deepening my understanding of DSA, core CS fundamentals, and system design
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diwakarks18">
@@ -15,6 +16,7 @@ I enjoy solving problems, understanding how systems work, and building software 
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   <a href="mailto:diwakarkumar1611@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
