@@ -3,10 +3,6 @@
 ### Computer Science Undergraduate | Aspiring Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Problem+Solver;500%2B+LeetCode+Problems;Exploring+Software+%26+Machine+Learning;Building+Projects%2C+Learning+Every+Day" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/diwakarks">
     <img src="https://img.shields.io/badge/GitHub-Diwakarks-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
