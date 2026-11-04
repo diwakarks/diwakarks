@@ -97,11 +97,6 @@ A collection of machine learning projects exploring data preprocessing, feature 
 
 ---
 
-## Beyond Coding
-
-- 🏁 **JEE Main:** All India Rank 12,040
-- 📚 Continuously learning through experimentation, implementation, and problem-solving
-
 <p align="center">
   <i>Building things. Understanding fundamentals. Getting better.</i>
 </p>
