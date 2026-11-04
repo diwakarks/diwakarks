@@ -5,14 +5,13 @@
 I enjoy solving problems, understanding how systems work, and building software that turns ideas and data into practical solutions.
 
 - 🎓 B.Tech in Computer Science & Engineering — **NIT Jalandhar**
-- 🧩 **500+ problems solved on LeetCode** | Contest Rating: **1835**
 - 💻 Interested in Software Engineering, Data-Intensive Applications, and Machine Learning
 - 🌱 Currently strengthening DSA, core CS fundamentals, and software design
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diwakarks18">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  <a href="https://leetcode.com/diwakar47">
+  <a href="https://leetcode.com/diwakar_47">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   <a href="mailto:diwakarkumar1611@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
