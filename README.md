@@ -90,16 +90,6 @@ A collection of machine learning projects exploring data preprocessing, feature 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diwakarks&theme=tokyonight" width="100%" alt="GitHub Profile Summary"/>
 </p>
 
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diwakarks&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=diwakarks&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
 ---
 
 <p align="center">
