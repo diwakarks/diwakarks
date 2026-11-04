@@ -1,7 +1,7 @@
-# Hi there, I'm Diwakar Kumar Singh 👋
 
-### Computer Science Undergraduate | Aspiring Software Engineer
+<h1 align="center">Hey, I'm Diwakar Kumar Singh 👋</h1>
 
+<h3 align="center">Computer Science Undergraduate | Aspiring Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/diwakarks">
@@ -21,133 +21,121 @@
   </a>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at **NIT Jalandhar**.
-- 💡 Interested in software engineering, problem-solving, and building impactful applications.
-- 🧠 Solved **500+ problems on LeetCode**, with a contest rating of **1835**.
-- 📊 Exploring Machine Learning, Data Analytics, and full-stack development.
-- 🌱 Currently strengthening Data Structures, Algorithms, and Computer Science fundamentals.
-- 🎯 Focused on continuous learning, writing better code, and building meaningful projects.
+- 🎓 B.Tech in Computer Science & Engineering at **NIT Jalandhar**.
+- 💡 Passionate about problem-solving and software development.
+- 🧠 Solved **500+ problems on LeetCode** | Contest Rating: **1835**.
+- 🌱 Exploring **Machine Learning, Data Analytics, and Full-Stack Development**.
+- 🎯 Strengthening DSA and CS fundamentals while building practical projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,mysql,git,github,vscode&theme=dark" alt="Technical Skills"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,mysql,git,github,vscode&theme=dark" alt="Tech Stack"/>
 </p>
 
-### Languages & Technologies
-
-| Category | Technologies |
-|---|---|
-| Programming Languages | C, C++, Python, JavaScript, SQL |
-| Web Development | HTML, CSS, React |
-| Data Science & ML | NumPy, Pandas, Matplotlib, Plotly, Scikit-learn |
-| Data & Visualization | MySQL, Excel, Power BI |
-| Tools | Git, GitHub, VS Code |
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-3776AB?style=flat-square" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%7C%20Plotly%20%7C%20Power%20BI-F2C811?style=flat-square" alt="Data Visualization"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 House Price Prediction
-A machine learning project focused on predicting house prices using regression techniques.
-
-- Performed data preprocessing, exploratory data analysis, and feature engineering.
-- Implemented Linear Regression and Random Forest models.
-- Evaluated model performance using appropriate metrics.
-
-### 🌾 FarmTech — Web Application
-A web application designed to address problems faced by farmers.
-
-- Developed a responsive frontend using React, HTML, CSS, and JavaScript.
-- Integrated backend services, APIs, database, and authentication.
-- Focused on practical functionality and user experience.
-
-### 📈 E-Commerce Sales Analytics
-An interactive business intelligence dashboard for analyzing sales performance.
-
-- Cleaned and processed **50,000+ records** using Excel.
-- Used SQL to extract and analyze transactional data.
-- Built a Power BI dashboard tracking revenue, profit, and order quantity.
-- Analyzed regional performance and customer behavior.
-
-### 👥 HR Analytics Dashboard
-A data analytics project exploring employee attrition and workforce trends.
-
-- Cleaned and structured employee data using Excel.
-- Used SQL to analyze attrition across departments, age groups, and salary bands.
-- Developed a Power BI dashboard to visualize workforce metrics.
-- Identified patterns in employee attrition and salary distribution.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 House Price Prediction</h3>
+      <p align="center">Machine learning model for predicting house prices using regression algorithms.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌾 FarmTech</h3>
+      <p align="center">A web application designed to address real-world problems faced by farmers.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📈 E-Commerce Sales Analytics</h3>
+      <p align="center">Interactive business intelligence dashboard analyzing 50,000+ sales records.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👥 HR Analytics Dashboard</h3>
+      <p align="center">Data-driven analysis of employee attrition, workforce trends, and HR metrics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=diwakarks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarks&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diwakarks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com/?user=diwakarks&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=diwakarks&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=flat-square&logo=leetcode" alt="500+ LeetCode Problems"/>
-  <img src="https://img.shields.io/badge/Contest%20Rating-1835-yellow?style=flat-square&logo=leetcode" alt="LeetCode Contest Rating"/>
-  <img src="https://img.shields.io/badge/CodeChef-2%20Star-brown?style=flat-square&logo=codechef" alt="2 Star CodeChef"/>
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Contest%20Rating-1835-2F9E44?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4636?style=flat-square&logo=codechef"/>
 </p>
 
+- 🥉 **3rd Position** — Pivot Room, Utkansh.
+- 🎯 **JEE Main AIR 12,040** among 1M+ candidates.
 
-## 📚 Currently Focusing On
+---
+
+## 📌 Currently Working On
 
 - Data Structures & Algorithms
 - Core Computer Science fundamentals
-- Problem-solving and competitive programming
-- Building and improving practical software projects
+- Competitive programming & problem-solving
+- Developing practical software projects
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:diwakarkumar1611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Let's%20Connect-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/diwakarks18">
-    <img src="https://img.shields.io/badge/LinkedIn-Diwakar%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Find%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  💬 Always open to discussing technology, projects, and opportunities.
-</p>
-
----
-
-<p align="center">
-  <i>"Consistency beats intensity."</i>
+  <i>Building. Learning. Improving — one commit at a time.</i>
 </p>
