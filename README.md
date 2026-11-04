@@ -2,17 +2,25 @@
 
 ### Computer Science Undergraduate | Aspiring Software Engineer
 
+
 <p align="center">
   <a href="https://github.com/diwakarks">
-    <img src="https://img.shields.io/badge/GitHub-Diwakarks-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/diwakarks18">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/diwakar47">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="mailto:diwakarkumar1611@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
@@ -82,13 +90,26 @@ A data analytics project exploring employee attrition and workforce trends.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diwakarks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Diwakar's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarks&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=diwakarks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarks&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=diwakarks&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=diwakarks&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
 
 ---
 
