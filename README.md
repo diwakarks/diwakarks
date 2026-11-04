@@ -71,8 +71,8 @@ A collection of machine learning projects exploring data preprocessing, feature 
 ## Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/diwakar47">
-    <img src="https://leetcard.jacoblin.cool/diwakar47?theme=dark&font=Baloo&ext=contest" alt="LeetCode Statistics" />
+  <a href="https://leetcode.com/diwakar_47">
+    <img src="https://leetcard.jacoblin.cool/diwakar_47?theme=dark&font=Baloo&ext=contest" alt="LeetCode Statistics" />
   </a>
 </p>
 
