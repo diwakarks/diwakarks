@@ -6,7 +6,7 @@ I build software applications, solve algorithmic problems, and explore how data 
 
 - 🎓 Pursuing B.Tech in Computer Science & Engineering at **NIT Jalandhar**
 - 💻 Building projects that combine software development with analytical problem-solving
-- 🧠 **500+ problems solved on LeetCode** | Contest Rating: **1835**
+- 🧠 **500+ problems solved on LeetCode** | Contest Rating: **1845**
 - 🌱 Currently deepening my understanding of DSA, core CS fundamentals, and system design
 
 <p align="center">
