@@ -1,4 +1,4 @@
-# Hi, I'm Diwakar Kumar Singh 👋
+# Hi, I'm Diwakar Kumar Singh
 
 ### Computer Science Undergraduate at NIT Jalandhar | Aspiring Software Engineer
 
